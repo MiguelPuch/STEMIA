@@ -1,0 +1,8 @@
+# Entornos virtuales
+.venv/
+
+# Credenciales
+.env
+
+# Temporales
+__pycache__
