@@ -1,0 +1,21 @@
+id,monto,ubicacion,hora,categoria,descripcion,es_fraude
+1,5000,Lima,23:45,Electrónicos,Compra online internacional,1
+2,200,Lima,10:30,Comida,Desayuno en cafetería,0
+3,4500,Cusco,00:15,Electrónicos,Compra nocturna,1
+4,150,Arequipa,13:20,Transporte,Taxi urbano,0
+5,6000,Lima,22:50,Electrónicos,Pedido online alto valor,1
+6,50,Cusco,08:15,Comida,Café y pan,0
+7,7000,Lima,23:10,Electrónicos,Orden de gadgets internacional,1
+8,300,Arequipa,09:45,Transporte,Uber,0
+9,1200,Lima,20:30,Entretenimiento,Entradas a concierto,0
+10,4800,Cusco,00:05,Electrónicos,Compra nocturna de dispositivos,1
+11,100,Lima,11:00,Comida,Almuerzo en restaurante local,0
+12,5500,Arequipa,22:30,Electrónicos,Pedido grande en tienda online,1
+13,75,Cusco,07:45,Transporte,Bus urbano,0
+14,600,Lima,15:20,Entretenimiento,Suscripción streaming,0
+15,5000,Arequipa,23:55,Electrónicos,Orden internacional de laptops,1
+16,250,Lima,12:30,Comida,Almuerzo rápido,0
+17,6200,Cusco,21:50,Electrónicos,Compra nocturna de gadgets,1
+18,400,Arequipa,10:10,Transporte,Taxi corto,0
+19,1800,Lima,19:15,Entretenimiento,Entradas teatro,0
+20,5800,Cusco,23:35,Electrónicos,Pedido nocturno de dispositivos,1
