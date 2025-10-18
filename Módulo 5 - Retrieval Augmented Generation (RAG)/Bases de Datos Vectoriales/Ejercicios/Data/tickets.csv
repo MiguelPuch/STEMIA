@@ -1,0 +1,31 @@
+id,categoria,problema,respuesta
+1,Instalación,No puedo instalar el software en Windows 11,Verifica que tengas permisos de administrador y la última versión del instalador.
+2,Conexión,El programa no se conecta a la base de datos,Revisa el puerto y las credenciales en el archivo de configuración.
+3,Error,Aparece un mensaje 'Invalid License Key' al abrir el programa,Asegúrate de que la licencia esté activa y vinculada al correo correcto.
+4,Rendimiento,El sistema se vuelve lento después de varias horas,Reinicia el servicio y limpia la caché temporal.
+5,Instalación,La instalación se detiene al 50% sin error visible,Cierra otros programas y vuelve a ejecutar el instalador como administrador.
+6,Conexión,No puedo acceder al servidor desde otra red,Comprueba la configuración del cortafuegos y las reglas del router.
+7,Error,El programa se cierra inesperadamente al guardar,Actualiza a la última versión del software y revisa los permisos del archivo.
+8,Rendimiento,La aplicación tarda mucho en abrir proyectos grandes,Optimiza las configuraciones de caché y aumenta la memoria asignada.
+9,Licencia,No puedo activar el producto después de reinstalar,Inicia sesión con tu cuenta registrada y reactiva la licencia desde el panel.
+10,Actualización,"Después de actualizar, algunas funciones no aparecen",Reinicia el programa y verifica que los módulos se hayan instalado correctamente.
+11,Instalación,El instalador no se inicia en macOS,Verifica los permisos de seguridad y que descargaste la versión correcta para macOS.
+12,Conexión,No puedo sincronizar mis datos entre dispositivos,Asegúrate de estar conectado a internet y de usar la misma cuenta en ambos dispositivos.
+13,Error,Aparece un error 404 al abrir el manual en línea,Revisa la URL y prueba desde otro navegador.
+14,Rendimiento,El software se congela al importar archivos grandes,Aumenta la memoria disponible y cierra otros programas mientras importas.
+15,Licencia,Mi licencia muestra “expirada” aunque la renové,"Cierra sesión y vuelve a iniciar, luego verifica el estado de la licencia en el panel."
+16,Actualización,La actualización no descarga correctamente,Comprueba tu conexión a internet y vuelve a intentar la actualización manualmente.
+17,Seguridad,No puedo cambiar mi contraseña de usuario,Revisa que la contraseña cumpla con los requisitos de longitud y caracteres.
+18,Conexión,La aplicación pierde conexión con el servidor cada pocos minutos,Revisa la configuración de red y asegúrate de que el firewall permita el tráfico.
+19,Instalación,Mensaje de “espacio insuficiente” al instalar,Libera espacio en disco o selecciona otra ubicación de instalación.
+20,Error,El programa muestra mensajes de error al abrir ciertos archivos,Verifica que los archivos no estén corruptos y que tengan la extensión correcta.
+21,Rendimiento,El sistema tarda en cerrar proyectos grandes,Guarda los cambios y reinicia la aplicación antes de cerrar grandes proyectos.
+22,Licencia,No puedo transferir mi licencia a otro dispositivo,Accede al panel de gestión de licencias y sigue las instrucciones de transferencia.
+23,Conexión,La sincronización con la nube falla repetidamente,"Comprueba la configuración del proxy o firewall, y reinicia la aplicación."
+24,Actualización,Las funciones nuevas no aparecen después de actualizar,Reinicia el software y asegúrate de haber instalado todos los módulos adicionales.
+25,Seguridad,Recibo alertas de acceso no autorizado,Cambia tu contraseña y habilita la autenticación en dos pasos.
+26,Instalación,El instalador se detiene con código de error 500,Descarga nuevamente el instalador desde la web oficial y ejecuta como administrador.
+27,Error,Mensaje de “archivo no encontrado” al abrir proyecto,Asegúrate de que la ruta del proyecto sea correcta y que los archivos existan.
+28,Rendimiento,La interfaz se vuelve lenta al abrir múltiples ventanas,Cierra ventanas innecesarias y aumenta la memoria asignada al software.
+29,Licencia,Mi clave de producto no funciona,Verifica que no hayas copiado espacios adicionales y que sea la clave correcta para tu versión.
+30,Conexión,No puedo enviar reportes a través de la aplicación,Revisa la configuración del servidor de correo y las credenciales asociadas.
