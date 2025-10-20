@@ -1,0 +1,31 @@
+id,titulo,contenido
+1,Manual de instalación,"Instrucciones paso a paso para instalar el sistema X, incluyendo preparación y herramientas necesarias."
+2,Guía de usuario,Explicación detallada de las funcionalidades del producto Y y ejemplos de uso.
+3,Procedimiento de mantenimiento diario,Chequeos diarios para garantizar correcto funcionamiento de todos los componentes.
+4,Procedimiento de mantenimiento mensual,Lista de tareas de mantenimiento preventivo y limpieza de sensores y dispositivos.
+5,FAQ de soporte técnico,Preguntas frecuentes sobre problemas comunes y soluciones rápidas.
+6,Especificaciones técnicas,"Detalles sobre dimensiones, consumo energético, compatibilidad y tolerancias de los equipos."
+7,Diagramas de conexión,Imágenes y explicaciones sobre cómo conectar los dispositivos correctamente.
+8,Políticas de actualización,Procedimientos para actualizar firmware y software de manera segura.
+9,Casos de error comunes,Descripciones de fallos frecuentes y pasos de resolución.
+10,Seguridad eléctrica,Normas y recomendaciones para prevenir accidentes y sobrecargas.
+11,Configuración de red,Instrucciones para conectar dispositivos a la red local y configurar parámetros de comunicación.
+12,Guía de reinicio de sistemas,Procedimientos seguros para reiniciar dispositivos sin perder configuraciones.
+13,Procedimientos de calibración,Cómo calibrar sensores y medidores para garantizar lecturas precisas.
+14,Registro de incidencias,Formato y ejemplos para documentar problemas y acciones correctivas.
+15,Manual de diagnóstico,Herramientas y técnicas para identificar problemas de hardware y software.
+16,Optimización de rendimiento,Consejos para mejorar eficiencia y tiempo de respuesta del sistema.
+17,Integración con otros sistemas,Cómo conectar e interoperar con sistemas externos y plataformas de monitoreo.
+18,Actualizaciones automáticas,Configuración de actualizaciones programadas y notificaciones de cambios.
+19,Procedimientos de respaldo,Cómo realizar copias de seguridad de configuraciones y datos críticos.
+20,Control de versiones,"Manejo de versiones de software, firmware y documentación técnica."
+21,Plan de contingencia,Medidas para recuperación ante fallos críticos o interrupciones del sistema.
+22,Manual de usuario avanzado,"Funciones avanzadas, personalización y configuración experta del sistema."
+23,Soporte remoto,Guía para asistencia técnica a distancia usando herramientas de acceso seguro.
+24,Monitoreo de sensores,Cómo interpretar datos de sensores y detectar anomalías tempranas.
+25,Diagnóstico de red,Comandos y herramientas para analizar conectividad y rendimiento de la red.
+26,Pruebas de funcionalidad,Procedimientos para validar que todas las funciones del sistema operan correctamente.
+27,Procedimientos de limpieza,Limpieza regular de componentes para evitar fallos por suciedad o polvo.
+28,Recomendaciones de seguridad física,Protecciones y ubicación de dispositivos para evitar daños por caídas o humedad.
+29,Registro de mantenimiento,Formato de registro para documentar todas las tareas de mantenimiento realizadas.
+30,Guía de resolución rápida,Pasos resumidos para solucionar problemas comunes de manera inmediata.
