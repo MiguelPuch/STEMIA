@@ -1,0 +1,6 @@
+Título: Desarrollo de células de perovskita de nueva generación
+Resumen:
+Las células solares de perovskita han pasado de ser un experimento de laboratorio a un competidor
+serio frente a las tecnologías de silicio. Los investigadores buscan mejorar su estabilidad
+mediante la sustitución de compuestos de plomo por materiales más sostenibles.
+Se prevé que los paneles híbridos silicio-perovskita dominen el mercado en la próxima década.

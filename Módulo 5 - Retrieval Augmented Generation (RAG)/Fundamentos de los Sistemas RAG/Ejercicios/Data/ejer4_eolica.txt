@@ -1,0 +1,6 @@
+Título: Aerogeneradores inteligentes y control adaptativo
+Resumen:
+Las nuevas turbinas eólicas incorporan sensores y sistemas de aprendizaje automático para ajustar
+su rendimiento a las condiciones del viento. Estas mejoras permiten reducir las vibraciones,
+aumentar la vida útil de los componentes y optimizar la producción energética. 
+También se está investigando el uso de materiales compuestos más ligeros para las palas.

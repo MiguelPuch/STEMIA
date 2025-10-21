@@ -1,0 +1,6 @@
+Título: Nuevas tendencias en energía solar
+Resumen:
+La energía solar se ha posicionado como una de las fuentes renovables más accesibles del mundo.
+Los avances recientes incluyen paneles bifaciales, sistemas fotovoltaicos flotantes y células híbridas
+que combinan silicio con materiales orgánicos. Además, el uso de IA para optimizar la orientación 
+y el mantenimiento de los paneles está incrementando la eficiencia general del sistema.

@@ -1,0 +1,5 @@
+Título: Evolución del almacenamiento con baterías
+Resumen:
+Las baterías de litio siguen liderando el almacenamiento energético, pero surgen alternativas como 
+las baterías de sodio o de estado sólido. Estas prometen mayor seguridad y densidad energética.
+La investigación también avanza en baterías reciclables y en la integración con redes inteligentes.
