@@ -1,0 +1,5 @@
+Título: Retos del hidrógeno verde
+Resumen:
+El hidrógeno verde es clave para la descarbonización industrial. Su producción aún requiere altos 
+costos energéticos, pero las mejoras en electrólisis y compresión están reduciendo la brecha. 
+Se espera que su adopción crezca en transporte pesado y almacenamiento estacional de energía.

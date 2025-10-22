@@ -1,0 +1,11 @@
+id,tema,titulo,resumen
+A001,Solar,Últimas innovaciones en células solares,"Investigaciones recientes en células solares incluyen mejoras en silicio PERC, células bifaciales y nuevas tecnologías híbridas con perovskita, aumentando la eficiencia y reduciendo costes."
+A002,Solar,Integración de paneles solares en edificios,"Se están desarrollando soluciones integradas en fachadas y tejados, paneles flexibles y semitransparentes, permitiendo generar energía directamente en entornos urbanos."
+A003,Eólica,Almacenamiento de energía eólica,"Para mitigar la intermitencia, se combinan aerogeneradores con sistemas de baterías y control inteligente, permitiendo estabilidad en la red eléctrica y optimización del suministro."
+A004,Eólica,Aerogeneradores flotantes,"Los aerogeneradores flotantes permiten instalar turbinas en alta mar, donde los vientos son más constantes y se puede aumentar la capacidad instalada sin ocupar terreno terrestre."
+A005,Almacenamiento,Baterías de iones de litio y alternativas,"Las baterías de litio son las más usadas, pero tecnologías como sodio-ion o estado sólido buscan mejorar seguridad, densidad energética y costos para almacenamiento renovable."
+A006,Hidrógeno,Hidrógeno verde para almacenamiento,"El hidrógeno producido mediante electrólisis de agua con energía renovable puede almacenarse y usarse para generar electricidad o como combustible industrial, aunque su eficiencia global aún es limitada."
+A007,Hidráulica,Pequeñas centrales hidráulicas,"Las pequeñas centrales permiten generación distribuida y almacenamiento estacional de energía, mejorando la flexibilidad de la red eléctrica."
+A008,Geotermia,Geotermia de baja y media entalpía,Se usa para calefacción urbana e industrial; la eficiencia depende de la perforación y recuperación de calor residual.
+A009,Redes Inteligentes,Gestión inteligente de la energía,"La combinación de IA, sensores y sistemas de almacenamiento permite equilibrar oferta y demanda, facilitando la integración de energías renovables intermitentes."
+A010,Política Energética,Incentivos y regulación,"Políticas de incentivos fiscales, subastas y certificaciones de origen renovable aceleran la adopción de tecnologías limpias y atraen inversión privada."
