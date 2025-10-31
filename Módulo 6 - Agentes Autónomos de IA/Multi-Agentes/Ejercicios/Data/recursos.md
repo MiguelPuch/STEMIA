@@ -1,0 +1,5 @@
+- Canal de YouTube: DotCSV
+- Blog: Towards Data Science
+- Dataset: Kaggle "Titanic" (beginner)
+- Dataset: Kaggle "Credit Scoring" (intermediate)
+- Libro: Hands-On Machine Learning (advanced)

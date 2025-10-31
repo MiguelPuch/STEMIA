@@ -1,0 +1,6 @@
+nombre,area,duracion_horas,nivel,prerequisitos
+Introducción a Python,Programación,20,beginner,
+Fundamentos de IA,IA,25,beginner,Introducción a Python
+Data Science con Python,Data,40,intermediate,Introducción a Python
+Machine Learning aplicado,IA,45,intermediate,Data Science con Python
+Deep Learning avanzado,IA,60,advanced,Machine Learning aplicado

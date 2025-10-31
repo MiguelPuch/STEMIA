@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Laura",
+    "profesion": "Periodista",
+    "objetivo": "aprender IA aplicada al análisis de datos y la creación de contenido automatizado",
+    "tiempo_disponible": "5h/semana"
+  },
+  {
+    "nombre": "Carlos",
+    "profesion": "Ingeniero industrial",
+    "objetivo": "reciclarse en Data Science y aplicar machine learning a la optimización de procesos",
+    "tiempo_disponible": "10h/semana"
+  },
+  {
+    "nombre": "María",
+    "profesion": "Psicóloga",
+    "objetivo": "usar inteligencia artificial para analizar datos de comportamiento humano",
+    "tiempo_disponible": "6h/semana"
+  },
+  {
+    "nombre": "Andrés",
+    "profesion": "Economista",
+    "objetivo": "especializarse en analítica de datos financieros y predicción de mercados",
+    "tiempo_disponible": "8h/semana"
+  },
+  {
+    "nombre": "Nerea",
+    "profesion": "Diseñadora gráfica",
+    "objetivo": "aprender IA generativa para mejorar la creación visual y el diseño asistido por algoritmos",
+    "tiempo_disponible": "4h/semana"
+  },
+  {
+    "nombre": "Sergio",
+    "profesion": "Profesor de secundaria",
+    "objetivo": "integrar herramientas de IA y ciencia de datos en la educación y la evaluación de alumnos",
+    "tiempo_disponible": "5h/semana"
+  },
+  {
+    "nombre": "Isabel",
+    "profesion": "Médica",
+    "objetivo": "profundizar en IA aplicada al diagnóstico y análisis de imágenes médicas",
+    "tiempo_disponible": "7h/semana"
+  },
+  {
+    "nombre": "Daniel",
+    "profesion": "Abogado",
+    "objetivo": "formarse en procesamiento del lenguaje natural para análisis de textos legales",
+    "tiempo_disponible": "6h/semana"
+  },
+  {
+    "nombre": "Lucía",
+    "profesion": "Analista de marketing",
+    "objetivo": "usar analítica avanzada y predicción de comportamiento del consumidor",
+    "tiempo_disponible": "9h/semana"
+  },
+  {
+    "nombre": "Rafa",
+    "profesion": "Técnico informático",
+    "objetivo": "mejorar sus habilidades en programación, bases de datos y automatización con IA",
+    "tiempo_disponible": "12h/semana"
+  }
+]
