@@ -1,0 +1,50 @@
+[project]
+name = "AWS-chatbot"
+version = "0.0.1"
+description = "Proyecto de chatbot con FastAPI y LangChain"
+readme = "readme.md"
+authors = [
+    { name = "Manuel", email = "c.datos25@salascala.com" },
+    { name = "Anna", email = "c.datos17@salascala.com" },
+]
+requires-python = ">=3.9"
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "langchain",
+    "langchain-core",
+    "langchain-openai",
+    "langchain-community",
+    "chromadb",
+    "chainlit",
+    "sentence-transformers",
+    "nltk",
+    "unidecode",
+    "pandas",
+    "scikit-learn",
+    "Levenshtein",
+    "matplotlib",
+    "chainlit",
+    "PyPDF2",
+    "python-dotenv",
+    "pymupdf",  # Para el import fitz (PyMuPDF)
+    "google-generativeai"
+]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "python-dotenv"
+]
+
+[tool.setuptools]
+packages = ["agent", "chatbot"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
