@@ -1,1 +1,1 @@
-# TRL4-ClassicFitGym-Assistant
+# ClassicFitGym-Assistant
