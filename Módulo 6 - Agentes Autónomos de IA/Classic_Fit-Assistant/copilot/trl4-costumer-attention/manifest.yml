@@ -1,0 +1,33 @@
+# The manifest for the "trl4-costumer-attention" service.
+# Read the full specification for the "Load Balanced Web Service" type at:
+#  https://aws.github.io/copilot-cli/docs/manifest/lb-web-service/
+
+name: trl4-costumer-attention
+type: Load Balanced Web Service
+
+http:
+  path: "/fit-assistant"    
+  healthcheck:
+    path: "/health"
+    grace_period: 180s
+
+image:
+  build: Dockerfile
+  port: 8000
+
+cpu: 256
+memory: 512
+platform: linux/arm64
+count: 1
+exec: true
+network:
+  connect: true
+
+secrets:                    
+  GOOGLE_API_KEY: /copilot/${COPILOT_APPLICATION_NAME}/${COPILOT_ENVIRONMENT_NAME}/secrets/TRL4-COSTUMER-ATTENTION-GOOGLE-API-KEY
+
+environments:
+  test:
+    variables:
+      LLM_MODE: gemini-2.0-flash
+      CHAINLIT_AUTH_SECRET: "3379CD$9U-0JSGG_kN5QS.iM~0-Zx,CgZ_$52T22YVpL/,l.E*7fLyzc1Dz.e7c4"
