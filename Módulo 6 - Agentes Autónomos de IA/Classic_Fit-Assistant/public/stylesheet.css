@@ -1,0 +1,53 @@
+.watermark {
+    visibility: hidden !important;
+}
+
+#new-chat-button {
+    position: fixed !important;  
+    top: 10px !important;    
+    right: 157px !important;    
+    z-index: 10000 !important;  
+}
+
+.relative.hidden {
+    display: none !important;
+}
+
+
+/* Modificar esta regla para que no afecte al logo */
+.flex.flex img:not(#custom-logo) {
+    display: none !important;
+}
+
+body::before {
+    content: url("allende_logo_horizontal.png") !important;
+    position: fixed !important;
+    top: 10px !important;
+    left: 10px !important; /* Antes: 260px —> demasiado separado del borde */
+    z-index: 9999 !important;
+    transform: scale(0.020) !important; /* Antes: 0.17 o 0.05 —> ajustado para equilibrio */
+    transform-origin: top left !important;
+    display: block !important;
+    pointer-events: none;
+}
+
+
+#custom-logo {
+    position: fixed !important;
+    top: 10px !important;
+    left: 10px !important;
+    z-index: 9999 !important;
+    width: 120px !important;      /* << Controlas el tamaño aquí */
+    height: auto !important;
+    display: block !important;
+    max-width: 100% !important;
+}
+
+/* En móvil, más pequeño */
+@media screen and (max-width: 768px) {
+    #custom-logo {
+        width: 80px !important;   /* Más reducido en móvil */
+        top: 5px !important;
+        left: 5px !important;
+    }
+}

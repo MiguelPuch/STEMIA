@@ -1,0 +1,134 @@
+{
+  "Objetivo 1": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.45,
+      "comentario": "Excelente desempeño en todos los aspectos del objetivo. Tus respuestas muestran claridad, precisión y aplicación correcta de los conceptos.\n\n| Verdadero/Falso: 5 (+3.0) | Opción Múltiple: 4 (+4.0) | Abiertas: 2 (+3.0) | Situacionales: 2 (+2.4) |",
+      "resumen": "🏆 **OBJETIVO 1 - DESEMPEÑO DESTACADO:**\n\nHas alcanzado un nivel sobresaliente. ¡Sigue así!",
+      "nivel": "nivel1"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 7.9,
+      "comentario": "Buen desempeño general. Hay oportunidades de mejora en algunas preguntas específicas para alcanzar la excelencia.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 4 (+4.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "👍 **OBJETIVO 1 - BUEN DESEMPEÑO:**\n\nContinúa reforzando el contenido para perfeccionar tu nivel.",
+      "nivel": "nivel1"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.8,
+      "comentario": "Buen dominio general, aunque podrías mejorar en el desarrollo de ejemplos en preguntas abiertas.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 4 (+4.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "📘 **OBJETIVO 1 - DOMINIO SATISFACTORIO:**\n\nBuen trabajo. Reforzar la argumentación te dará aún mejores resultados.",
+      "nivel": "nivel1"
+    }
+  ],
+  "Objetivo 2": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 7.6,
+      "comentario": "Buen conocimiento de los servicios. Las respuestas situacionales podrían ser más específicas y aplicadas.\n\n| Verdadero/Falso: 2 (+1.2) | Opción Múltiple: 3 (+3.0) | Abiertas: 3 (+4.5) | Situacionales: 3 (+3.6) |",
+      "resumen": "📗 **OBJETIVO 2 - NIVEL BUENO:**\n\nBuen entendimiento general. Refuerza el vínculo entre teoría y casos reales.",
+      "nivel": "nivel2"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.0,
+      "comentario": "Excelente dominio del contenido. Tus respuestas demuestran madurez y capacidad para aplicar conocimientos a escenarios reales.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 5 (+5.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "🌟 **OBJETIVO 2 - DESEMPEÑO DESTACADO:**\n\nGran capacidad de análisis y aplicación práctica. ¡Muy bien logrado!",
+      "nivel": "nivel2"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.05,
+      "comentario": "Mostraste una comprensión clara de los servicios, pero algunas respuestas podrían ser más completas o con mayor justificación.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 3 (+3.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "🟢 **OBJETIVO 2 - BUEN CAMINO:**\n\nRefuerza detalles y contexto en las respuestas para subir de nivel.",
+      "nivel": "nivel2"
+    }
+  ],
+  "Objetivo 3": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.9,
+      "comentario": "Excelente desempeño. Mostraste claridad total en conceptos relacionados con tarifas y formas de pago.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 5 (+5.0) | Abiertas: 2 (+3.0) | Situacionales: 3 (+3.6) |",
+      "resumen": "🌟 **OBJETIVO 3 - DESEMPEÑO DESTACADO:**\n\nDominio total de los temas tratados. ¡Impresionante trabajo!",
+      "nivel": "nivel3"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 7.2,
+      "comentario": "Buen nivel. Aún puedes mejorar en redacción de respuestas abiertas y profundización en situaciones prácticas.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 3 (+3.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "📒 **OBJETIVO 3 - BUEN COMIENZO:**\n\nNecesitas más precisión en tus respuestas. Vas por buen camino.",
+      "nivel": "nivel3"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.8,
+      "comentario": "Comprensión bastante completa. Mostraste habilidad para conectar conceptos de pago con situaciones reales.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 4 (+4.0) | Abiertas: 2 (+3.0) | Situacionales: 3 (+3.6) |",
+      "resumen": "🧾 **OBJETIVO 3 - COMPRENSIÓN SÓLIDA:**\n\nBien hecho. Solo te falta un poco más de profundidad en respuestas abiertas para dominar el objetivo.",
+      "nivel": "nivel3"
+    }
+  ],
+  "Objetivo 4": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.3,
+      "comentario": "Buen conocimiento general de las normas de uso. Las respuestas situacionales fueron adecuadas, pero puedes mejorar en especificidad.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 3 (+3.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "📕 **OBJETIVO 4 - CONOCIMIENTO CONSOLIDADO:**\n\nBuen trabajo. Profundiza en los matices de cada norma para afianzar el dominio.",
+      "nivel": "nivel4"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.6,
+      "comentario": "Mostraste una comprensión avanzada de las normas. Tus respuestas situacionales muestran análisis y aplicación adecuada del reglamento.\n\n| Verdadero/Falso: 5 (+3.0) | Opción Múltiple: 4 (+4.0) | Abiertas: 3 (+4.5) | Situacionales: 3 (+3.0) |",
+      "resumen": "✅ **OBJETIVO 4 - EXCELENCIA LOGRADA:**\n\nDominio teórico y práctico ejemplar de las normas. ¡Muy bien!",
+      "nivel": "nivel4"
+    }
+  ],
+  "Objetivo 5": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.7,
+      "comentario": "Entiendes el proceso de trámites, aunque podrías trabajar más en la claridad de los pasos y resolución de dudas frecuentes.\n\n| Verdadero/Falso: 3 (+1.8) | Situaciones: 3 (+3.6) | Abiertas: 3 (+4.5) | Opción Múltiple: 3 (+3.0) |",
+      "resumen": "📒 **OBJETIVO 5 - TRÁMITES CONOCIDOS:**\n\nVas por buen camino. Profundiza en detalles para mayor dominio.",
+      "nivel": "nivel5"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.8,
+      "comentario": "Excelente comprensión de trámites. Tus respuestas reflejan claridad, orden y un enfoque práctico impecable.\n\n| Verdadero/Falso: 5 (+3.0) | Situaciones: 3 (+3.6) | Abiertas: 3 (+4.5) | Opción Múltiple: 3 (+3.0) |",
+      "resumen": "📘 **OBJETIVO 5 - MAESTRÍA LOGRADA:**\n\nConocimiento profundo y bien estructurado. ¡Sigue así!",
+      "nivel": "nivel5"
+    }
+  ],
+  "Objetivo 6": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.2,
+      "comentario": "Dominio muy sólido de las preguntas frecuentes. Tus respuestas fueron rápidas, claras y útiles. Podrías afinar un poco más el detalle técnico.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 5 (+5.0) | Abiertas: 3 (+4.5) | Situacionales: 3 (+3.0) |",
+      "resumen": "📓 **OBJETIVO 6 - NIVEL AVANZADO:**\n\nMuy buen manejo del contenido. Continúa afinando precisión y detalle.",
+      "nivel": "nivel6"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.0,
+      "comentario": "Buen rendimiento. Mostraste comprensión clara de las FAQ, pero podrías mejorar la forma en que explicas ciertos procesos o términos.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 3 (+3.0) | Abiertas: 3 (+4.5) | Situacionales: 2 (+2.4) |",
+      "resumen": "🗂️ **OBJETIVO 6 - BUEN CAMINO:**\n\nBuen conocimiento, refuerza detalles clave para lograr un nivel excelente.",
+      "nivel": "nivel6"
+    }
+  ],
+  "Objetivo 7": [
+    {
+      "fecha": "2025-06-05",
+      "nota": 9.3,
+      "comentario": "Excelente capacidad para comprender y aplicar principios de atención al cliente. Tus respuestas muestran empatía, claridad y enfoque en el usuario.\n\n| Verdadero/Falso: 4 (+2.4) | Opción Múltiple: 5 (+5.0) | Abiertas: 3 (+4.5) | Situacionales: 3 (+3.0) |",
+      "resumen": "📔 **OBJETIVO 7 - ATENCIÓN AL CLIENTE DOMINADA:**\n\nGran habilidad de comunicación y resolución. ¡Felicidades!",
+      "nivel": "nivel7"
+    },
+    {
+      "fecha": "2025-06-05",
+      "nota": 8.4,
+      "comentario": "Mostraste un enfoque correcto hacia la atención al cliente. Algunas respuestas podrían ser más personalizadas y empáticas.\n\n| Verdadero/Falso: 3 (+1.8) | Opción Múltiple: 4 (+4.0) | Abiertas: 2 (+3.0) | Situacionales: 3 (+3.6) |",
+      "resumen": "🤝 **OBJETIVO 7 - BUEN MANEJO:**\n\nTienes una base sólida. Trabaja en matices de trato con el usuario.",
+      "nivel": "nivel7"
+    }
+  ]}
