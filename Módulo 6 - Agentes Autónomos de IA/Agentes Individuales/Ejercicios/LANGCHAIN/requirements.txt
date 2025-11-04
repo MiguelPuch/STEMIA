@@ -1,0 +1,19 @@
+# Dependencias del Agente Conversacional con LangChain
+
+# Framework LangChain
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+
+# Cliente OpenAI
+openai>=1.0.0
+
+# Gestión de variables de entorno
+python-dotenv>=1.0.0
+
+# Utilidades para notebooks
+ipykernel>=6.25.0
+jupyter>=1.0.0
+
+# Opcional: Para análisis y debugging
+langsmith>=0.0.70
